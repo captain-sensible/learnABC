@@ -1,0 +1,38 @@
+
+Andy:
+<Andy>:
+	orientation: "vertical"
+	alphaLetter:letterABC
+    animalName:beastName
+	Label:
+		id:letterABC
+		text:''
+		size_hint:1,.2
+		markup:True
+		font_size:60
+		pos_hint:{'x':0,'y':0.8}
+	Label:
+		
+		size_hint:1,.5
+		canvas.after:
+			Rectangle:
+                
+                pos:root.x +(root.width/3) , root.y +(self.height/2)
+                
+                source:root.rect_source
+               
+                
+	
+	
+	
+	Label:
+		id:beastName
+		text:''
+		size_hint:1,.14
+		markup:True
+		font_size:40
+	Button:
+		text:'press me'
+		size_hint:.3,.1
+		pos_hint:{'x':.33,'y':.2}
+		on_press:root.update()

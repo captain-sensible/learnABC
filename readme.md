@@ -3,8 +3,8 @@ There are high levels of illiteracy in Ghana and a lot of children are behind in
 The idea of this program was to make it a bit more fun for kids to learn their ABC than just constantly reciting A to Z.
 
 The code has been converted to Android using buildozer and the FREE app for Android phones is here: 
+https://www.amazon.co.uk/andy-brookes-LearnABC/dp/B015VKW78Q
 
-https://play.google.com/store/apps/details?id=org.ginbrookesfoundation.alphabet 
 
 
 The idea for the Android app is because prices for smart "android" phones are coming down; the app is aimed at parents of children in Ghana and other 3rd world Countries to use the app with their children of ages around 2-3 to start planting the seed of Alphabet sounds and an Anchor for the letter, such as the sight and sound of an animal whose name begins with a letter of the Alphabet.
